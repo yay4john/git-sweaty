@@ -7253,6 +7253,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17774149073",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17806172562",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17808361864",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13594,6 +13612,15 @@
           "distance": 46788.0,
           "elevation_gain": 164.0,
           "moving_time": 7768.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17808361864"
+          ],
+          "count": 1,
+          "distance": 27891.5,
+          "elevation_gain": 135.0,
+          "moving_time": 5445.0
         }
       },
       "Run": {
@@ -13949,11 +13976,20 @@
           "distance": 9140.0,
           "elevation_gain": 51.0,
           "moving_time": 3398.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17806172562"
+          ],
+          "count": 1,
+          "distance": 24992.0,
+          "elevation_gain": 154.0,
+          "moving_time": 9468.0
         }
       }
     }
   },
-  "generated_at": "2026-03-21T15:06:53.823877+00:00",
+  "generated_at": "2026-03-22T15:07:20.903337+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
