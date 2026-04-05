@@ -7352,6 +7352,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17954327456",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 7,
+      "name": "Club Oly long run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17978653134",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14138,6 +14147,15 @@
           "distance": 5080.4,
           "elevation_gain": 23.0,
           "moving_time": 1955.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17978653134"
+          ],
+          "count": 1,
+          "distance": 29431.0,
+          "elevation_gain": 194.0,
+          "moving_time": 11666.0
         }
       },
       "Walk": {
@@ -14153,7 +14171,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T15:09:55.300003+00:00",
+  "generated_at": "2026-04-05T15:10:51.601883+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",

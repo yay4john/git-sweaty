@@ -10619,5 +10619,18 @@
     "start_date_local": "2026-04-02T12:40:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 29431.0,
+    "elevation_gain": 194.0,
+    "id": "17978653134",
+    "moving_time": 11666.0,
+    "name": "Club Oly long run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T07:36:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
