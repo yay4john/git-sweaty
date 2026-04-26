@@ -10801,5 +10801,44 @@
     "start_date_local": "2026-04-24T16:40:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 10313.5,
+    "elevation_gain": 246.0,
+    "id": "18255650442",
+    "moving_time": 6775.0,
+    "name": "Mima Falls",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-25T08:29:06Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 2814.0,
+    "elevation_gain": 75.0,
+    "id": "18256684635",
+    "moving_time": 2116.0,
+    "name": "Porter Creek Falls",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-25T11:33:17Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 3113.0,
+    "elevation_gain": 30.1,
+    "id": "18259633236",
+    "moving_time": 3152.0,
+    "name": "9 holes at Delphi",
+    "raw_activity_type": "Golf",
+    "raw_type": "Golf",
+    "start_date_local": "2026-04-25T17:30:33Z",
+    "type": "Golf",
+    "year": 2026
   }
 ]
