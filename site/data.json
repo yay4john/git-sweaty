@@ -7505,6 +7505,15 @@
       "type": "Golf",
       "url": "https://www.strava.com/activities/18259633236",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18270782795",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14440,6 +14449,15 @@
           "distance": 13436.0,
           "elevation_gain": 130.0,
           "moving_time": 5178.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18270782795"
+          ],
+          "count": 1,
+          "distance": 3405.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1156.0
         }
       },
       "Walk": {
@@ -14455,7 +14473,7 @@
       }
     }
   },
-  "generated_at": "2026-04-26T15:16:25.106572+00:00",
+  "generated_at": "2026-04-27T15:36:13.282248+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
