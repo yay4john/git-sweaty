@@ -10918,5 +10918,18 @@
     "start_date_local": "2026-05-02T09:45:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 12169.0,
+    "elevation_gain": 115.0,
+    "id": "18363558794",
+    "moving_time": 4426.0,
+    "name": "Bloomsday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T09:43:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

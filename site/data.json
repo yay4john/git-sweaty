@@ -7559,6 +7559,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18349300485",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 9,
+      "name": "Bloomsday",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18363558794",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14540,6 +14549,15 @@
           "distance": 9923.4,
           "elevation_gain": 102.0,
           "moving_time": 3615.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18363558794"
+          ],
+          "count": 1,
+          "distance": 12169.0,
+          "elevation_gain": 115.0,
+          "moving_time": 4426.0
         }
       },
       "Walk": {
@@ -14555,7 +14573,7 @@
       }
     }
   },
-  "generated_at": "2026-05-03T15:16:41.186324+00:00",
+  "generated_at": "2026-05-04T15:41:21.098904+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
