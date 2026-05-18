@@ -11048,5 +11048,18 @@
     "start_date_local": "2026-05-16T07:19:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 21330.8,
+    "elevation_gain": 158.0,
+    "id": "18545963393",
+    "moving_time": 6955.0,
+    "name": "Cap City Half",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T07:45:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
