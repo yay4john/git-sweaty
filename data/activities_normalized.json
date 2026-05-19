@@ -11061,5 +11061,18 @@
     "start_date_local": "2026-05-17T07:45:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 27534.0,
+    "elevation_gain": 139.0,
+    "id": "18562077182",
+    "moving_time": 4558.0,
+    "name": "Cross train recovery",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-18T16:28:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
