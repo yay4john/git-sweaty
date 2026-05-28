@@ -11087,5 +11087,18 @@
     "start_date_local": "2026-05-22T08:07:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 4876.3,
+    "elevation_gain": 56.0,
+    "id": "18683443848",
+    "moving_time": 1725.0,
+    "name": "Club Oly Scavenger Hunt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T18:10:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
