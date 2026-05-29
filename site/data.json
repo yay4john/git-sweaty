@@ -7685,6 +7685,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18683443848",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 17,
+      "name": "Afternoon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18696691267",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14785,6 +14794,17 @@
           "moving_time": 1725.0
         }
       },
+      "Swim": {
+        "2026-05-28": {
+          "activity_ids": [
+            "18696691267"
+          ],
+          "count": 1,
+          "distance": 378.8,
+          "elevation_gain": 0.0,
+          "moving_time": 1707.0
+        }
+      },
       "TrailRun": {
         "2026-05-10": {
           "activity_ids": [
@@ -14809,7 +14829,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T16:27:47.828024+00:00",
+  "generated_at": "2026-05-29T16:19:12.059168+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
@@ -14852,6 +14872,10 @@
       "accent": "#f15bb5",
       "label": "Snowshoe"
     },
+    "Swim": {
+      "accent": "#3a86ff",
+      "label": "Swim"
+    },
     "TrailRun": {
       "accent": "#00bbf9",
       "label": "Trail Run"
@@ -14879,6 +14903,7 @@
     "Rowing",
     "Run",
     "Snowshoe",
+    "Swim",
     "TrailRun",
     "Walk",
     "WeightTraining",
