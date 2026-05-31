@@ -11113,5 +11113,18 @@
     "start_date_local": "2026-05-28T17:30:48Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 17223.0,
+    "elevation_gain": 1091.0,
+    "id": "18720833999",
+    "moving_time": 14732.0,
+    "name": "Marmot Pass",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-30T08:15:57Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
