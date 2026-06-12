@@ -7748,6 +7748,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18844747985",
       "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 17,
+      "name": "Shake out run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18885151885",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14900,6 +14909,15 @@
           "distance": 5297.0,
           "elevation_gain": 50.0,
           "moving_time": 1682.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18885151885"
+          ],
+          "count": 1,
+          "distance": 4083.9,
+          "elevation_gain": 28.0,
+          "moving_time": 1574.0
         }
       },
       "Swim": {
@@ -14937,7 +14955,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T16:23:49.146596+00:00",
+  "generated_at": "2026-06-12T16:04:54.295627+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
