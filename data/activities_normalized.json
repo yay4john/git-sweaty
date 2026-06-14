@@ -11204,5 +11204,18 @@
     "start_date_local": "2026-06-11T17:33:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 42699.8,
+    "elevation_gain": 14.0,
+    "id": "18907884142",
+    "moving_time": 15711.0,
+    "name": "Hyak Super Marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T07:00:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

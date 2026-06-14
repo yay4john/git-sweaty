@@ -7757,6 +7757,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18885151885",
       "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 7,
+      "name": "Hyak Super Marathon",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18907884142",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14918,6 +14927,15 @@
           "distance": 4083.9,
           "elevation_gain": 28.0,
           "moving_time": 1574.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18907884142"
+          ],
+          "count": 1,
+          "distance": 42699.8,
+          "elevation_gain": 14.0,
+          "moving_time": 15711.0
         }
       },
       "Swim": {
@@ -14955,7 +14973,7 @@
       }
     }
   },
-  "generated_at": "2026-06-13T15:34:35.834677+00:00",
+  "generated_at": "2026-06-14T15:35:18.626967+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
