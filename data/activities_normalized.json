@@ -11256,5 +11256,18 @@
     "start_date_local": "2026-06-20T10:26:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 10497.0,
+    "elevation_gain": 1013.0,
+    "id": "19014182439",
+    "moving_time": 11358.0,
+    "name": "Mt Ellinor",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-21T07:03:27Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
