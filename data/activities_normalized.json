@@ -11282,5 +11282,18 @@
     "start_date_local": "2026-06-22T17:45:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 4159.0,
+    "elevation_gain": 40.0,
+    "id": "19056433153",
+    "moving_time": 1534.0,
+    "name": "Fleet Feet Summer Block Party 2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-24T18:05:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
