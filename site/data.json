@@ -7824,7 +7824,7 @@
     {
       "date": "2026-06-25",
       "hour": 16,
-      "name": "Afternoon Run",
+      "name": "Run with Anise",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/19068231575",
@@ -15099,7 +15099,7 @@
       }
     }
   },
-  "generated_at": "2026-06-26T15:47:29.659982+00:00",
+  "generated_at": "2026-06-27T15:28:29.453285+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
