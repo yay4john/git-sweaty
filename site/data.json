@@ -7901,6 +7901,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19209087909",
       "year": 2026
+    },
+    {
+      "date": "2026-07-07",
+      "hour": 9,
+      "name": "Morning Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19217611973",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-07",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19219899770",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14373,6 +14391,15 @@
           "distance": 19808.0,
           "elevation_gain": 228.0,
           "moving_time": 3710.0
+        },
+        "2026-07-07": {
+          "activity_ids": [
+            "19219899770"
+          ],
+          "count": 1,
+          "distance": 22289.3,
+          "elevation_gain": 127.0,
+          "moving_time": 3632.0
         }
       },
       "Run": {
@@ -15217,6 +15244,15 @@
           "distance": 800.0,
           "elevation_gain": 0.0,
           "moving_time": 1173.0
+        },
+        "2026-07-07": {
+          "activity_ids": [
+            "19217611973"
+          ],
+          "count": 1,
+          "distance": 800.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1329.0
         }
       },
       "TrailRun": {
@@ -15243,7 +15279,7 @@
       }
     }
   },
-  "generated_at": "2026-07-07T17:10:09.800359+00:00",
+  "generated_at": "2026-07-08T16:27:41.623655+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
