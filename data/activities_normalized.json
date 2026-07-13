@@ -11477,5 +11477,18 @@
     "start_date_local": "2026-07-11T07:34:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 800.0,
+    "elevation_gain": 0.0,
+    "id": "19286550435",
+    "moving_time": 1256.0,
+    "name": "Lunch Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-12T11:49:22Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
