@@ -11555,5 +11555,18 @@
     "start_date_local": "2026-07-17T06:28:19Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 22984.7,
+    "elevation_gain": 194.0,
+    "id": "19356682372",
+    "moving_time": 4872.0,
+    "name": "Chill ride with friends",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T16:52:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
