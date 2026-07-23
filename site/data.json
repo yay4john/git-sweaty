@@ -8027,6 +8027,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19395874758",
       "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19424993910",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19425371506",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14526,6 +14544,15 @@
           "distance": 22984.7,
           "elevation_gain": 194.0,
           "moving_time": 4872.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19424993910"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2096.0
         }
       },
       "Run": {
@@ -15404,6 +15431,15 @@
           "distance": 10860.0,
           "elevation_gain": 119.0,
           "moving_time": 4343.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19425371506"
+          ],
+          "count": 1,
+          "distance": 5501.2,
+          "elevation_gain": 40.0,
+          "moving_time": 2162.0
         }
       },
       "Swim": {
@@ -15495,7 +15531,7 @@
       }
     }
   },
-  "generated_at": "2026-07-22T16:17:59.252609+00:00",
+  "generated_at": "2026-07-23T16:23:29.368985+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
