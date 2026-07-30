@@ -11646,5 +11646,31 @@
     "start_date_local": "2026-07-27T18:03:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 925.0,
+    "elevation_gain": 0.0,
+    "id": "19522424880",
+    "moving_time": 1981.0,
+    "name": "Lunch Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-29T12:47:24Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 5649.1,
+    "elevation_gain": 39.0,
+    "id": "19523006106",
+    "moving_time": 1904.0,
+    "name": "Block Party Scavenger Hunt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-29T18:05:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
