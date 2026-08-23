@@ -11932,5 +11932,44 @@
     "start_date_local": "2026-08-22T07:33:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 1618.2,
+    "elevation_gain": 0.0,
+    "id": "19854809244",
+    "moving_time": 391.0,
+    "name": "Olympia Mile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-22T09:10:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 1455.5,
+    "elevation_gain": 0.0,
+    "id": "19857725916",
+    "moving_time": 1561.0,
+    "name": "Afternoon Stand Up Paddling",
+    "raw_activity_type": "StandUpPaddling",
+    "raw_type": "StandUpPaddling",
+    "start_date_local": "2026-08-22T15:18:58Z",
+    "type": "StandUpPaddling",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 1526.4,
+    "elevation_gain": 0.0,
+    "id": "19857725959",
+    "moving_time": 3930.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-22T16:12:12Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
