@@ -11971,5 +11971,18 @@
     "start_date_local": "2026-08-22T16:12:12Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 4411.1,
+    "elevation_gain": 37.0,
+    "id": "19916681391",
+    "moving_time": 1521.0,
+    "name": "Last block party",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T18:06:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
