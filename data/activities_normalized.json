@@ -11984,5 +11984,44 @@
     "start_date_local": "2026-08-26T18:06:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 1374.0,
+    "elevation_gain": 0.0,
+    "id": "19954035438",
+    "moving_time": 1357.0,
+    "name": "Plutonium Man Triathlon",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-29T09:11:33Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 31302.0,
+    "elevation_gain": 220.0,
+    "id": "19954035503",
+    "moving_time": 4620.0,
+    "name": "Plutonium Man Triathlon",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-29T09:39:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 9964.8,
+    "elevation_gain": 55.0,
+    "id": "19954035545",
+    "moving_time": 3450.0,
+    "name": "Plutonium Man Triathlon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-29T10:58:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

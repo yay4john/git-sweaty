@@ -8297,6 +8297,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19916681391",
       "year": 2026
+    },
+    {
+      "date": "2026-08-29",
+      "hour": 9,
+      "name": "Plutonium Man Triathlon",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19954035438",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-29",
+      "hour": 9,
+      "name": "Plutonium Man Triathlon",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19954035503",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-29",
+      "hour": 10,
+      "name": "Plutonium Man Triathlon",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19954035545",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14868,6 +14895,15 @@
           "distance": 32695.9,
           "elevation_gain": 230.0,
           "moving_time": 4933.0
+        },
+        "2026-08-29": {
+          "activity_ids": [
+            "19954035503"
+          ],
+          "count": 1,
+          "distance": 31302.0,
+          "elevation_gain": 220.0,
+          "moving_time": 4620.0
         }
       },
       "Run": {
@@ -15864,6 +15900,15 @@
           "distance": 4411.1,
           "elevation_gain": 37.0,
           "moving_time": 1521.0
+        },
+        "2026-08-29": {
+          "activity_ids": [
+            "19954035545"
+          ],
+          "count": 1,
+          "distance": 9964.8,
+          "elevation_gain": 55.0,
+          "moving_time": 3450.0
         }
       },
       "StandUpPaddling": {
@@ -15994,6 +16039,15 @@
           "distance": 1526.4,
           "elevation_gain": 0.0,
           "moving_time": 3930.0
+        },
+        "2026-08-29": {
+          "activity_ids": [
+            "19954035438"
+          ],
+          "count": 1,
+          "distance": 1374.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1357.0
         }
       },
       "TrailRun": {
@@ -16029,7 +16083,7 @@
       }
     }
   },
-  "generated_at": "2026-08-29T18:08:55.764389+00:00",
+  "generated_at": "2026-08-30T18:23:03.571372+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
