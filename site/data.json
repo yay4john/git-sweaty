@@ -8396,6 +8396,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20146450669",
       "year": 2026
+    },
+    {
+      "date": "2026-09-13",
+      "hour": 6,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/20161194267",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14776,6 +14785,15 @@
           "distance": 11669.0,
           "elevation_gain": 1174.0,
           "moving_time": 13886.0
+        },
+        "2026-09-13": {
+          "activity_ids": [
+            "20161194267"
+          ],
+          "count": 1,
+          "distance": 13767.7,
+          "elevation_gain": 293.0,
+          "moving_time": 9301.0
         }
       },
       "Ride": {
@@ -16227,7 +16245,7 @@
       }
     }
   },
-  "generated_at": "2026-09-12T17:39:58.589795+00:00",
+  "generated_at": "2026-09-13T17:53:33.802460+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
