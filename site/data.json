@@ -8414,6 +8414,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20179081036",
       "year": 2026
+    },
+    {
+      "date": "2026-09-15",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20194086515",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16062,6 +16071,15 @@
           "distance": 10716.0,
           "elevation_gain": 60.0,
           "moving_time": 3962.0
+        },
+        "2026-09-15": {
+          "activity_ids": [
+            "20194086515"
+          ],
+          "count": 1,
+          "distance": 13339.0,
+          "elevation_gain": 109.0,
+          "moving_time": 5278.0
         }
       },
       "StandUpPaddling": {
@@ -16263,7 +16281,7 @@
       }
     }
   },
-  "generated_at": "2026-09-15T18:40:59.520744+00:00",
+  "generated_at": "2026-09-16T18:37:32.869648+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
