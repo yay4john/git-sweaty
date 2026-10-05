@@ -12244,5 +12244,18 @@
     "start_date_local": "2026-09-30T18:02:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 43330.4,
+    "elevation_gain": 299.0,
+    "id": "20452925878",
+    "moving_time": 19128.0,
+    "name": "Portland Marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-04T07:31:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
