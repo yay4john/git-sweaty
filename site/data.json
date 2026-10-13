@@ -8504,6 +8504,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20547580322",
       "year": 2026
+    },
+    {
+      "date": "2026-10-12",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20562004478",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16224,6 +16233,15 @@
           "distance": 43330.4,
           "elevation_gain": 299.0,
           "moving_time": 19128.0
+        },
+        "2026-10-12": {
+          "activity_ids": [
+            "20562004478"
+          ],
+          "count": 1,
+          "distance": 5818.9,
+          "elevation_gain": 45.0,
+          "moving_time": 1805.0
         }
       },
       "StandUpPaddling": {
@@ -16443,7 +16461,7 @@
       }
     }
   },
-  "generated_at": "2026-10-12T22:22:20.776748+00:00",
+  "generated_at": "2026-10-13T20:29:04.056117+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
