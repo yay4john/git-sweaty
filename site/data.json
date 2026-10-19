@@ -8513,6 +8513,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20562004478",
       "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 8,
+      "name": "Silver Falls Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/20639449092",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16446,6 +16455,15 @@
           "distance": 4047.0,
           "elevation_gain": 83.0,
           "moving_time": 1904.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "20639449092"
+          ],
+          "count": 1,
+          "distance": 20648.0,
+          "elevation_gain": 451.0,
+          "moving_time": 9303.0
         }
       },
       "Walk": {
@@ -16461,7 +16479,7 @@
       }
     }
   },
-  "generated_at": "2026-10-18T17:45:12.198357+00:00",
+  "generated_at": "2026-10-19T20:19:57.217891+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
