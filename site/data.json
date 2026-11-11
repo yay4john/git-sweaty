@@ -8612,6 +8612,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20928251733",
       "year": 2026
+    },
+    {
+      "date": "2026-11-10",
+      "hour": 12,
+      "name": "Lunch Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20938930203",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16606,6 +16615,15 @@
           "distance": 1000.0,
           "elevation_gain": 0.0,
           "moving_time": 1714.0
+        },
+        "2026-11-10": {
+          "activity_ids": [
+            "20938930203"
+          ],
+          "count": 1,
+          "distance": 1200.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1886.0
         }
       },
       "TrailRun": {
@@ -16659,7 +16677,7 @@
       }
     }
   },
-  "generated_at": "2026-11-10T21:10:04.680330+00:00",
+  "generated_at": "2026-11-11T21:42:55.346283+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
