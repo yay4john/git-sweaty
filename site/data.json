@@ -8621,6 +8621,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20938930203",
       "year": 2026
+    },
+    {
+      "date": "2026-11-11",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20955195222",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16404,6 +16413,15 @@
           "distance": 11294.4,
           "elevation_gain": 107.0,
           "moving_time": 4201.0
+        },
+        "2026-11-11": {
+          "activity_ids": [
+            "20955195222"
+          ],
+          "count": 1,
+          "distance": 12123.0,
+          "elevation_gain": 97.0,
+          "moving_time": 4224.0
         }
       },
       "StandUpPaddling": {
@@ -16677,7 +16695,7 @@
       }
     }
   },
-  "generated_at": "2026-11-11T21:42:55.346283+00:00",
+  "generated_at": "2026-11-12T21:41:48.887388+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/34397119",
   "repo": "yay4john/git-sweaty",
